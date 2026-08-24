@@ -1,4 +1,4 @@
-# svgTCG24
+# RafalTCG
 A collection of SVG graphics, icons, visual assets and design resources created for TCG24.pl — a Polish trading card game portal covering Pokémon TCG, Magic: The Gathering, One Piece Card Game, Yu-Gi-Oh!, Lorcana, Riftbound and more.
 
 # Hi, I'm Rafał 👋
