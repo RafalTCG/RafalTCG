@@ -9,6 +9,10 @@ Building a modern Polish platform dedicated to Trading Card Games.
 
 🌐 https://tcg24.pl
 
+
+Garden blog
+https://ogrodnajuz.pl/
+
 ### TCGs
 
 - Pokémon TCG
